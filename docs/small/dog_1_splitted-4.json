@@ -1,0 +1,40 @@
+{"frames": {
+
+"greyhound_3-11.png":
+{
+	"frame": {"x":1,"y":137,"w":314,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":22,"w":314,"h":141},
+	"sourceSize": {"w":338,"h":170}
+},
+"greyhound_3-13.png":
+{
+	"frame": {"x":319,"y":1,"w":313,"h":154},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":10,"w":313,"h":154},
+	"sourceSize": {"w":338,"h":170}
+},
+"greyhound_3-20.png":
+{
+	"frame": {"x":1,"y":1,"w":316,"h":134},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":31,"w":316,"h":134},
+	"sourceSize": {"w":338,"h":170}
+}},
+"animations": {
+	"greyhound_3": ["greyhound_3-11.png","greyhound_3-13.png","greyhound_3-20.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "dog_1_splitted-4.png",
+	"format": "RGBA8888",
+	"size": {"w":474,"h":315},
+	"scale": "1",
+	"related_multi_packs": [ "dog_1_splitted-0.json", "dog_1_splitted-1.json", "dog_1_splitted-2.json", "dog_1_splitted-3.json", "dog_1_splitted-5.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:64ea5a935aa144a2242453ecbe80c130:4fb59e729e4b55e7d504d2d5a46b02b3:3b7f1e8d39a5f51c487ccf815ceac6ed$"
+}
+}

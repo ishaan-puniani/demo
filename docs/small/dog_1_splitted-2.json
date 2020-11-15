@@ -1,0 +1,48 @@
+{"frames": {
+
+"greyhound_3-7.png":
+{
+	"frame": {"x":1,"y":1,"w":322,"h":138},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":32,"w":322,"h":138},
+	"sourceSize": {"w":338,"h":170}
+},
+"greyhound_3-9.png":
+{
+	"frame": {"x":1,"y":141,"w":317,"h":132},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":32,"w":317,"h":132},
+	"sourceSize": {"w":338,"h":170}
+},
+"greyhound_3-12.png":
+{
+	"frame": {"x":1,"y":275,"w":312,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":18,"w":312,"h":143},
+	"sourceSize": {"w":338,"h":170}
+},
+"greyhound_3-15.png":
+{
+	"frame": {"x":325,"y":1,"w":316,"h":151},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":19,"w":316,"h":151},
+	"sourceSize": {"w":338,"h":170}
+}},
+"animations": {
+	"greyhound_3": ["greyhound_3-7.png","greyhound_3-9.png","greyhound_3-12.png","greyhound_3-15.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "dog_1_splitted-2.png",
+	"format": "RGBA8888",
+	"size": {"w":477,"h":419},
+	"scale": "1",
+	"related_multi_packs": [ "dog_1_splitted-0.json", "dog_1_splitted-1.json", "dog_1_splitted-3.json", "dog_1_splitted-4.json", "dog_1_splitted-5.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:64ea5a935aa144a2242453ecbe80c130:4fb59e729e4b55e7d504d2d5a46b02b3:3b7f1e8d39a5f51c487ccf815ceac6ed$"
+}
+}
